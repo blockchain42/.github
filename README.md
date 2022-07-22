@@ -2,11 +2,8 @@
 # Cleverlance Blockchain 42 
 
  
-PICTURE: 1800 x 450px | Let our code pave the way to your own blockchain app 
 
-What can we do for you? 
-
- 
+### What can we do for you? 
 
 We know the technology. You know your business.  
 
