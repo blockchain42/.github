@@ -12,7 +12,7 @@ We are an experienced team backed by a leading software development company. At 
 
 ### Development 
 
-- Web 3 apps development 
+- Web3 apps development 
 - Infrastructure, Ecosystem, and tooling for blockchains 
 - Smart contracts development 
 
