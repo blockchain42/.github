@@ -13,23 +13,19 @@ We know the technology. You know your business.
 We are an experienced team backed by a leading software development company. At Cleverlance, we combine our unique expertise in mobile app development and blockchain coding craft with obvious backend and frontend development to offer you state-of-the-art applications for the future. 
  
 
-Development 
+## Development 
 
-Web 3 apps development 
+- Web 3 apps development 
+- Infrastructure, Ecosystem, and tooling for blockchains 
+- Smart contracts development 
 
-Infrastructure, Ecosystem, and tooling for blockchains 
+## Consultancy 
 
-Smart contracts development 
+- Workshops and tutoring on blockchain technologies 
+- Blockchain apps architecture 
+- Developer experience strategy for blockchain projects 
 
-Consultancy 
-
-Workshops and tutoring on blockchain technologies 
-
-Blockchain apps architecture 
-
-Developer experience strategy for blockchain projects 
-
-Expertise 
+## Expertise 
 
  
 
