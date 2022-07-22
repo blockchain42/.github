@@ -51,7 +51,7 @@ We are an experienced team backed by a leading software development company. At 
 - Mobile App Development 
 
 
-#Our Advantages 
+# Our Advantages 
 
 - Senior team with a quick learning curve thanks to the team variability 
 - Experienced and connected with large automotive and fintech companies 
